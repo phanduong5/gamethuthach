@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">game</string>
+    <string-array name="hat">
+        <item>Ra ngoài và hát.</item>
+        <item>Hát một bài.</item>
+        <item>Hát một bài hát karaoke một mình không nhạc</item>
+        <item>Hát thay vì nói cho đến khi trò chơi kết thúc</item>
+        <item>Lừa chọn 1 người để hát bài song ca</item>
+    </string-array>
+    <string-array name="tro">
+        <item>Ra ngoài nhảy múa trong 1 phút.</item>
+        <item>Xỏ tất vào tay trong 10 phút.</item>
+        <item>Chọn một thứ trong thùng rác và cầm nó trong 10 giây.</item>
+        <item>Đóng giả là một người nổi tiếng theo Trend cho đến khi ai đó đoán ra người đó là ai.</item>
+        <item>Chọn một người trong phòng và nhảy một điệu nhảy chậm với họ.</item>
+        <item>Lấy giấy vệ sinh quấn quanh người như xác ướp và đăng ảnh chụp lên mạng.</item>
+        <item>Cầu hôn một con thú cưng hoặc thú nhồi bông.</item>
+        <item>Cắn một miếng vào quả chanh.</item>
+        <item>Tự lấy vòi nước xịt vào người.</item>
+        <item>Ngửi nách của một người chơi.</item>
+        <item>Đi một vòng catwalk gợi cảm.</item>
+        <item>Đánh đàn guitar ảo trong 30 giây.</item>
+        <item>Xoa nách, sau đó ngửi các ngón tay.</item>
+        <item>Mặc áo trái.</item>
+        <item>Bóc một quả chuối bằng chân.</item>
+        <item>Liếm khuỷu tay của mình.</item>
+        <item>Xỏ giày vào tay trong 1 lượt chơi.</item>
+        <item>Dùng răng để cởi tất.</item>
+        <item>Bịt mắt và cho người khác đút cho bạn ăn thứ gì đó</item>
+    </string-array>
+    <string-array name="story">
+        <item>Đăng một video bắt chước tiếng chó sủa hoặc mèo kêu.</item>
+        <item>Phản hồi 5 story đầu tiên khi vào máy</item>
+        <item>Đăng Story : Nhớ Người Cũ</item>
+        <item>Đăng Story : Mình Vẫn Còn FA</item>
+        <item>Đăng ảnh tự sướng lâu đời nhất trên điện thoại của bạn trên Story</item>
+    </string-array>
+    <string-array name="fb">
+        <item>Cho phép người chơi khác đăng trạng thái trên mạng xã hội của bạn.</item>
+        <item>Cập nhật tình trạng mối quan hệ của bạn thành “đã đính hôn”.</item>
+        <item>Đăng một bức ảnh chụp bàn chân của bạn và mô tả mùi của nó.</item>
+        <item>Đăng một bức ảnh selfie xấu hổ nhất của bạn trong 1 tiếng đồng hồ.</item>
+
+        <item>Thay ảnh đại diện là hình 1 bạn trong nhóm</item>
+    </string-array>
+    <string-array name="an">
+        <item>Ăn thứ gì đó mà không dùng tay.</item>
+        <item>Ăn lại đồ vừa bỏ đi.</item>
+        <item>nhìn mọi người ăn trong 3 phút.</item>
+        <item>Chỉ được ăn rau.</item>
+        <item>Bị bịp mắt vào để ăn </item>
+    </string-array>
+    <string-array name="uong">
+        <item>uông hết 1 li rượu(bia)</item>
+        <item>uông hết 2 li rượu(bia)</item>
+        <item>uông hết 1 cốc nước đầy</item>
+    </string-array>
+    <string-array name="goi">
+        <item>Nhắn tin cho người mà bạn đang yêu thầm.</item>
+        <item>Nói Chuyện Với Người Lạ trong 5 phút. </item>
+        <item>Nhắn tin “Chúc mừng sinh nhật” cho một số ngẫu nhiên trong danh sách liên lạc.</item>
+        <item>Gọi cho một số điện thoại ngẫu nhiên trong danh sách liên lạc và hát.</item>
+        <item>Gọi điện cho bạn cấp 3 chơi nhưng lâu ngày không gặp.</item>
+        <item>Đọc cho mọi người nghe tin nhắn mới nhất mà bạn đã gửi.</item>
+        <item>Gửi cho crush một tấm hình mà bạn thấy mình đáng yêu nhất</item>
+        <item>Nhắn Tin với Mẹ : Con yêu Mẹ Nhiều</item>
+        <item>Nhắn Tin với Mẹ : Mẹ cho con 10tr đi mẹ</item>
+        <item>Nhắn Tin với Bố : Có Thằng đánh con</item>
+        <item>Gọi điện cho bạn thân khác giới nói: Thích bạn :bật loa ngoài</item>
+
+    </string-array>
+    <string-array name="tinh">
+        <item>Hôn một người cùng chơi có đôi môi hấp dẫn nhất.</item>
+        <item>Xoay chai và hôn người được chỉ.</item>
+        <item>Nháy Mắt Với người mà bạn yêu thầm</item>
+        <item>Xoa bóp bàn chân cho người ngồi bên trái bạn.</item>
+        <item>Hôn đắm đuối một chiếc gối</item>
+        <item>Nhắn tin cho người bạn thích và hẹn họ đi chơi</item>
+        <item>Mặc quần lót bên ngoài quần dài.</item>
+        <item>Nhảy khiêu gợi xung quanh ai đó.</item>
+        <item>Cởi bỏ 2 món trang phục trên người.</item>
+        <item>Gắp đồ ăn cho người bạn thích nhất
+        </item>
+        <item>Năm Tay người bên trái trong 1 ván</item>
+        <item>Đút cho người bên phải 1 miếng ngon nhất trên bàn</item>
+        <item>Thơm môi 1 bạn cùng giới</item>
+    </string-array>
+    <string-array name="them">
+        <item>thêm lượt quay</item>
+        <item>Thoát Tội</item>
+    </string-array>
+    <string-array name="mat">
+        <item>mất 10k cho bạn bên phải</item>
+        <item>mất 10k cho bạn bên trái</item>
+        <item>mất 10k cho bạn thắng</item>
+        <item>mất 10k và phải đi mua cay xé</item>
+    </string-array>
+    <string-array name="dien">
+        <item>Đưa Điện Cho Người Thắng</item>
+        <item>Đọc to những gì bạn đã tìm kiếm trên điện thoại của mình trong năm phút qua.</item>
+        <item>Chụp một bức ảnh selfie làm mặt xấu.</item>
+        <item>không được cầm điện thoại trong 10p</item>
+        <item>Cho ai đó dùng điện thoại của bạn để nhắn tin.</item>
+    </string-array>
+    <string-array name="hanh">
+        <item>Làm một bài thơ về người mà bạn thích.</item>
+        <item>Giả làm chó hoặc mèo trong 5 phút.</item>
+        <item>Sang nhà hàng xóm hỏi mượn giấy vệ sinh.</item>
+        <item>Đổi quần áo với người khác.</item>
+        <item>Chống đẩy 10 lần.</item>
+        <item>Xoa bóp vai cho người ngồi bên trái bạn.</item>
+        <item>Thả thứ gì đó vào bồn cầu rồi dùng tay nhặt lên</item>
+        <item>Ngửi chân của mọi người.</item>
+        <item>Sờ vào nách ai đó.</item>
+        <item>Cố gắng không cười trong 10 phút tiếp theo</item>
+        <item>Sang bấm chuông nhà hàng xóm rồi bỏ chạy.</item>
+        <item>Đặt câu hỏi , nếu trả lời sai thì phạt theo ý muốn</item>
+        <item>Bị tất cả mọi người nhờ vả , sai vặt </item>
+        <item>Cuối buổi bạn phải thu dọn và rửa bát</item>
+        <item>Bạn bị mọi người nhổ nông lách hoặc nông chân</item>
+    </string-array>
+    <string-array name="ai">
+        <item>Ở đây ai có mông đẹp nhất?</item>
+        <item>Bạn có từng yêu thầm ai trong phòng này không?</item>
+        <item>Ai là người bạn đang yêu thầm?</item>
+        <item>Bạn muốn hôn ai trong căn phòng này</item>
+        <item>Trong số tất cả những người trong phòng, chàng trai / cô gái nào bạn sẽ đồng ý hẹn hò</item>
+        <item>Bạn đã bao giờ hẹn hò với ai đó chỉ vì tình dục?</item>
+        <item>Bạn đã bao giờ tán tỉnh anh chị em của bạn thân chưa?</item>
+        <item>Nếu phải quay lại với người yêu cũ, bạn sẽ chọn ai?</item>
+        <item>Ai ở đây hiểu rõ bạn nhất?</item>
+        <item>Lần gần đây nhất bạn xem Instagram của ai?</item>
+        <item>Bạn nhắn tin cho ai nhiều nhất?</item>
+        <item>Giáo viên nóng bỏng nhất của bạn là gì?</item>
+        <item>Ai là người làm phiền bạn nhất?</item>
+    </string-array>
+    <string-array name="caigi">
+        <item>Bạn có cho phép tôi kiểm tra lịch sử duyệt web trên điện thoại di động của bạn không?</item>
+        <item>Cái gì đáng xấu hổ nhất có trong phòng ngủ của bạn?</item>
+        <item>Khuyết điểm lớn nhất của bạn là gì?</item>
+        <item>Chỗ nào trên người bạn dễ bị nhột nhất?</item>
+        <item>hứ gì quan trọng hơn: tình yêu hay tiền bạc?</item>
+        <item>Bạn thích thể loại phim nào?</item>
+        <item>Bạn đã xem phim 18+ bao giờ chưa</item>
+        <item>Nói hai điều trung thực về những người khác trong nhóm</item>
+        <item>Bạn mong chờ điều gì ở người yêu?</item>
+        <item>Bạn muốn làm con vật nào?</item>
+        <item>Bạn nghĩ ai có vòng ba đẹp nhất?</item>
+        <item>Bạn ghen tỵ với ai nhất?</item>
+        <item>Quan niệm sai lầm nhất của mọi người về bạn là gì?</item>
+        <item>Bạn nghĩ gì về việc yêu nhiều người cùng lúc?</item>
+        <item>Cậu nghĩ gì về người bên cạnh vào lần đầu gặp mặt?</item>
+        <item>Bạn thích mặc kiểu đồ lót nào nhất?</item>
+        <item>Bạn có còn lưu luyến tình cũ không?</item>
+    </string-array>
+    <string-array name="dalam">
+        <item>Bạn đã từng gửi ảnh khỏa thân chưa?</item>
+        <item>Bạn đã ngủ với bao nhiêu người</item>
+        <item>Có bao giờ bạn “tè” trong hồ bơi không?</item>
+        <item>Đã vào nhà vệ sinh khác giới chưa ?</item>
+        <item>Lần cuối cùng bạn tè dầm là lúc nào?</item>
+        <item>Bạn có bao giờ đi tiểu khi đứng dưới vòi sen chưa?</item>
+        <item>Bạn có mặc pyjama đi ngủ không?</item>
+        <item>Có bao giờ bạn nhắn tin sex chữa?</item>
+        <item>Lần bị nôn làm bạn ngượng ngùng nhất là gì?</item>
+        <item>Bạn đã từng ăn trộm thứ gì chưa?</item>
+        <item>Bạn đã từng hẹn hò với người thấp hơn mình chưa?</item>
+        <item>Đã bao giờ bạn hẹn hò nhiều người cùng một lúc chưa?</item>
+        <item>Bạn đã từng hôn bao nhiêu người rồi?</item>
+    </string-array>
+    <string-array name="ke">
+        <item>Gọi tên một người mà bạn hối hận vì đã hôn</item>
+        <item>Nơi kỳ lạ nhất mà bạn đã hôn với ai đó là gì?</item>
+        <item>Kể tên hai thú vui tội lỗi của bạn.</item>
+        <item>Bạn đã bao giờ bị bắt quả tang 18+ chưa ?</item>
+        <item>Bạn có nụ hôn đầu tiên vào lúc nào?</item>
+        <item>Bạn mặc đồ lót màu gì?</item>
+        <item>Đã bao giờ bạn khỏa thân ở nơi công cộng chưa?</item>
+        <item>3 bộ phận nào trên cơ thể mà bạn muốn người yêu hôn nhất?</item>
+        <item>Bạn muốn trở thành người như thế nào khi lớn lên?</item>
+        <item>Bạn có bí mật gì mà không ai biết?</item>
+        <item>Nỗi ân hận lớn nhất của bạn là gì?</item>
+        <item>Người ta hay đồn điều gì về bạn?</item>
+        <item>Điều gì khiến bạn hưng phấn nhất</item>
+        <item>Bộ phim đáng xấu hổ nhất mà bạn thích là gì?</item>
+        <item>Mùi kỳ lạ nào mà bạn thích?</item>
+        <item>Bạn có quần lót kiểu bà già/quần lót nam màu trắng bó sát không?</item>
+        <item>Lý do bạn muốn có người yêu</item>
+        <item>Biệt hiệu hồi bé của bạn là gì và lý do vì sao?</item>
+        <item>Kể 1 tật xấu của bạn</item>
+    </string-array>
+</resources>
